@@ -1,0 +1,21 @@
+* YUI Editor module for Drupal
+
+** Description
+
+This module provides the [[http://developer.yahoo.com/yui/editor/][YUI Rich Text Editor]] from the [[http://developer.yahoo.com/yui][YUI]] (Yahoo!
+User Interface) library. 
+
+It requires the [[http://drupal.org/project/yui][YUI]] module from drupal.org in order to be installed.
+
+This is a modified version of the [[http://drupal.org/project/yui_editor][YUI editor]] that supports paste from
+Microsoft Word and alikes. 
+
+It uses the [[http://richtextcleanpaste.codeplex.com][Rich Text Clean Paste]] plugin.
+
+** Why aren't you using WYSIWYG?
+
+Well in the past I've tried it and couldn't get ot to work with YUI
+editor. It's IMHO the best looking RTE out there, furthermore the
+advanced configuration provided, like profiles, toolbar customization
+and such are quite nice. So due to my not very positive impressions of
+YUI with WYSIWIYG I've settled for this module.
