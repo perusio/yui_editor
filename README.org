@@ -14,7 +14,11 @@ It uses the [[http://richtextcleanpaste.codeplex.com][Rich Text Clean Paste]] pl
 
 ** Why aren't you using WYSIWYG?
 
+<<<<<<< HEAD
    Well in the past I've tried it and couldn't get to to work with YUI
+=======
+Well in the past I've tried it and couldn't get ot to work with YUI
+>>>>>>> 0b2870353224ad4bc09774f4f882a3d8f671c771
 editor. It's IMHO the best looking RTE out there, furthermore the
 advanced configuration provided, like profiles, toolbar customization
 and such are quite nice. So due to my not very positive impressions of
